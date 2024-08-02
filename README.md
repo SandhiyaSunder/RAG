@@ -31,9 +31,10 @@ To set up and run the RAG implementation, follow these steps:
 2. **Install Dependencies:**
 
 Ensure you have pip installed, and then run:
-    ```bash 
-    pip install -r requirements.txt
-    ```
+
+```bash
+pip install -r requirements.txt
+
 
 ## Run the Models
 
