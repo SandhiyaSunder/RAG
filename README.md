@@ -16,6 +16,10 @@ This repository contains implementations for both the Llama series (LLM) and GPT
 - **Streamlit Integration:** 
   - A streamlined user interface for interacting with the models and visualizing results.
 
+- **PDF Document Support:**
+  - The implementation supports querying and generating responses based on the content of PDF documents.
+  - Multiple PDFs can be uploaded and processed simultaneously.
+  - The system ranks the relevance of content from each PDF and generates responses based on the context with the highest rank.
 
 ## Setup Instructions
 
