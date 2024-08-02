@@ -67,4 +67,3 @@ To run the models, follow these steps:
   - **Receive Response:** The model's response will be displayed after processing your query.
   - **Submit New Query:** Clear the input field and press Enter to submit a new query.
 
-
