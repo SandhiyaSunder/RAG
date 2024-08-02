@@ -1,0 +1,8 @@
+streamlit
+llama_index=0.9.3
+transformer=4.35.2
+torch=2.3.1
+bitandbytes
+accelerate
+pymupdf
+pypdf
