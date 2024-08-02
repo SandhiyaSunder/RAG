@@ -30,7 +30,7 @@ To set up and run the RAG implementation, follow these steps:
 
 2. **Install Dependencies:**
 
-Ensure you have pip installed, and then run:
+Ensure you have `pip` installed and are using Python 3.10. Then, run the following command to install the necessary dependencies:
 
 ```bash
 pip install -r requirements.txt
