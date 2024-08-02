@@ -1,6 +1,6 @@
 # RAG
 
-This repository contains implementations for both the Llama series (LLM) and GPT-Neo (SLM) models,tested using the Retrieval-Augmented Generation (RAG) framework. The project also integrates Streamlit for a user-friendly interface, allowing for interactive experimentation and visualization of the models' performance.
+This repository contains implementations for both the Llama series (LLM) and GPT-Neo (SLM) models,tested using the Retrieval-Augmented Generation (RAG) framework. The project also integrates Streamlit for a user-friendly interface, allowing for interactive experimentation and visualization of the models performance.
 
 
 ## Features
