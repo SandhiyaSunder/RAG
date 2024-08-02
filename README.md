@@ -5,10 +5,14 @@ This repository contains implementations for both the Llama series (LLM) and GPT
 
 ## Features
 
-- **Llama Series (LLM):** 
-  - Advanced LLM models designed for retrieval-augmented generation (RAG).
-- **GPT-Neo (SLM):** 
-  - Efficient SLM models for generating responses.
+- **Hugging Face Model Support:**
+  - Supports any model available from Hugging Face.
+  - Specifically experimented with Llama Series for LLM and GPT-Neo-125M for SLM in this implementation.
+
+- **LlamaIndex Integration:**
+  - Utilized for efficient vector database management and retrieval in the RAG pipeline.
+  - Enhances the performance of document retrieval and response generation.
+
 - **Streamlit Integration:** 
   - A streamlined user interface for interacting with the models and visualizing results.
 
